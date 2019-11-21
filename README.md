@@ -4,6 +4,6 @@
 
 ## На вакансию Middle PHP-разработчик
 
-- [Задание №1](middle/web-dev-001.md)
-- [Задание №2](middle/web-dev-002.md)
-- [Задание №3](middle/web-dev-003.md)
+- [Задание №1](middle/web-dev-php-middle-001.md)
+- [Задание №2](middle/web-dev-php-middle-002.md)
+- [Задание №3](middle/web-dev-php-middle-003.md)

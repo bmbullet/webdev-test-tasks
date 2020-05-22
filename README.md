@@ -4,6 +4,7 @@
 
 - [Задание №1 (Вставка виджета JivoSite)](junior/web-dev-php-junior-001.md)
 - [Задание №2 (Вставка виджета CallbackHunter)](junior/web-dev-php-junior-002.md)
+- [Задание №3 (Вставка виджета WhatsApp)](junior/web-dev-php-junior-003.md)
 
 ## На вакансию Middle PHP-разработчик (Yii2)
 

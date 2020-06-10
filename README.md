@@ -12,3 +12,4 @@
 - [~~Задание №2 (Оксфордский тест анализа личности)~~](middle/web-dev-php-middle-002.md)
 - [Задание №3 (Оптимизатор изображений)](middle/web-dev-php-middle-003.md)
 - [~~Задание №4 (Импорт данных из файла)~~](middle/web-dev-php-middle-004.md)
+- [Задание №5 (Почтовый клиент на Yii2 для работы с почтой через Gmail или Yandex)](middle/web-dev-php-middle-005.md)
